@@ -104,7 +104,7 @@ Ext.onReady(function() {
 			title: 'Demo',
 			bodyPadding: '5 5 5 5',
 			layout : 'fit',
-			//tbar : mainBar,
+			tbar : mainBar,
 			items : grid
 		}]
 	});
